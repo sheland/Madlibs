@@ -11,4 +11,6 @@ print "Where to you live?"
 location = gets.chomp 
 print "How long have you live there?"
 length = gets.chomp
-Name 
+puts "My name is "+ name 
+puts "I am " + age +  "years old"
+puts "I am a " + job + "and I have been living in " + location + "for" + length
