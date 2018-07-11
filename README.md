@@ -9,7 +9,7 @@ print "What do you do for a living?"
 job = gets.chomp
 print "Where to you live?" 
 location = gets.chomp 
-print "How long have you live there?"
+print "How long have you lived there?"
 length = gets.chomp
 puts "My name is "+ name 
 puts "I am " + age +  "years old"
